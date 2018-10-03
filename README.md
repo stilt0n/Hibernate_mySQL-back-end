@@ -1,0 +1,2 @@
+# Hibernate_mySQL-back-end
+This is a collection of classes I made for a team project for interacting with a mySQL database.  Unfortunately I don't have the code for the front-end.  The demo depends on having certain config files setup to work and works with a local mySQL server, so it won't run unless you were to do some setup first.  I put the project up because despite that, I still think it's pretty cool.  I will be adding some config files to this repository in the near future, so hopefully soon the demo will work for others without much setup.
